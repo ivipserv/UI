@@ -1,10 +1,11 @@
 ## Welcome to iVipServ UI API
-	 <iframe src="http://ivipserv.xyz/id" width="100%" height="700px"></iframe> 
 
 
 ### Support or Contact
 
 Contact us on  [contact page](https://ivipserv.xyz/apps#tab/contact)
+	 <iframe src="http://ivipserv.xyz/id" width="100%" height="700%"></iframe> 
+
  <!-- GTranslate: https://gtranslate.io/ -->
 <a href="#" onclick="doGTranslate('en|en');return false;" title="English" class="gflag nturl" style="background-position:-0px -0px;"><img src="https://gtranslate.net/flags/blank.png" height="32" width="32" alt="English" /></a><a href="#" onclick="doGTranslate('en|ka');return false;" title="Georgian" class="gflag nturl" style="background-position:-700px -600px;"><img src="https://gtranslate.net/flags/blank.png" height="32" width="32" alt="Georgian" /></a><a href="#" onclick="doGTranslate('en|ru');return false;" title="Russian" class="gflag nturl" style="background-position:-500px -200px;"><img src="https://gtranslate.net/flags/blank.png" height="32" width="32" alt="Russian" /></a>
 
