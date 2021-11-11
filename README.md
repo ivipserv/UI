@@ -1,5 +1,4 @@
 ## Welcome to iVipServ UI API
-<iframe src="https://ivipserv.xyz/id/api/" title="description"></iframe>
 
 
 ### Support or Contact
