@@ -1,5 +1,5 @@
 ## Welcome to iVipServ UI API
-<iframe src="https://ivipserv.xyz/id/" height="100%" width="700px" title="Iframe Example"></iframe>
+	 <iframe src="http://ivipserv.xyz/id" width="100%" height="700"></iframe> 
 
 
 ### Support or Contact
